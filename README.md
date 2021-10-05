@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm John Salinas 😄
+### I'm a CS Major at Cal Poly Pomona 💻 
+### I'm currently learning data structures using Java ☕
+
 
 <!--
 **JohnSalinas123/JohnSalinas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
