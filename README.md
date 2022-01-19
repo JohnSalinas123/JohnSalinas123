@@ -1,6 +1,5 @@
 ### Hi, I'm John Salinas 😄
 ### I'm a CS student at Cal Poly Pomona 💻 
-### In my classes im currently learning data structures with java.
 ### Outside of class i am learning web development, and working on my problem solving.
 
 
