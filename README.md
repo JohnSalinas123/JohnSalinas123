@@ -1,5 +1,4 @@
 ### Hi, I'm John Salinas 😄
-### I graduated with a bachelor's degree in computer science from Cal Poly Pomona. 💻 
 ### 🌱 I enjoy learning about web development and machine learning.
 
 
