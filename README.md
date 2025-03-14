@@ -1,8 +1,8 @@
 ### Hi, I'm John Salinas 😄
 ### 🌱 I enjoy learning about web development and machine learning.
 
-### <- I also enjoy learning other skills aswell, like basic 3D modeling
-### which is how I made my profile picture on here. 
+##### <- I also enjoy learning other skills aswell, like basic 3D modeling, which is how I made my profile picture on here.
+#####  
 <!--
 **JohnSalinas123/JohnSalinas123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
