@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I enjoy learning and enhancing my frontend and backend development skills<br><br>💡I focus on building thoughtful, maintainable solutions to real problems<br><br>🖥️ Projects & portfolio: [https://johnsalinas.dev]</p>
+<p align="left">🌱 I enjoy learning and enhancing my frontend and backend development skills<br><br>💡I focus on building thoughtful, maintainable solutions to real problems<br><br>🖥️ Projects & portfolio: https://johnsalinas.dev</p>
 
 ###
 
